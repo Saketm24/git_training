@@ -2,5 +2,6 @@
 
 ## Branchimg model
 
-1. Master Branch 
+1. Master Branch- no direct change is allowed
+
 2. Dev Branch
