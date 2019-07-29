@@ -4,4 +4,6 @@
 
 1. Master Branch- no direct change is allowed
 
-2. Dev Branch
+2. Dev Branch - Direct change is allowed
+
+
