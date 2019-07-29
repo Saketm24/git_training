@@ -1,2 +1,6 @@
 # git_training
-For learning purpose
+
+## Branchimg model
+
+1. Master Branch 
+2. Dev Branch
